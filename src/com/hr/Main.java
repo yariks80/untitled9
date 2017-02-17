@@ -9,6 +9,7 @@ public class Main {
             if (j % 2 == 0)
                 System.out.println("j = " + j);
                 System.out.println();
+                System.out.println();
 
         }
     }
